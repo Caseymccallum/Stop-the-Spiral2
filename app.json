@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "StopTheSpiral",
+    "slug": "stop-the-spiral",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
